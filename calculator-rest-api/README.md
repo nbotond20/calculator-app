@@ -6,7 +6,7 @@ This is a REST API for the Calculator application.
 
 ### Prerequisites
 
-To use this boilerplate, you need to have the following installed on your machine:
+To use this api, you need to have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/en/download/) (v16 or higher)
 - [pnpm](https://pnpm.io/installation) (v7 or higher)
