@@ -1,4 +1,4 @@
-# Claculator Frontend
+# Calculator Frontend
 
 This is a frontend for the Calculator application.
 

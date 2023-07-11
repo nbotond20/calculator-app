@@ -1,4 +1,4 @@
-# Claculator REST API
+# Calculator REST API
 
 This is a REST API for the Calculator application.
 
