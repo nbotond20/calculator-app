@@ -57,4 +57,5 @@ pnpm start
 
 ## Defined Routes
 
-- `GET /users`: Returns a list of all users.
+- `GET /get-memory`: Returns the current value stored in memory.
+- `POST /save-memory`: Saves the given value in memory.
